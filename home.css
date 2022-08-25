@@ -57,8 +57,16 @@ img {
     display: flex;
     justify-content: center;
     align-items:center;
+  
         
 }
 
+
+h1 {
+    margin-bottom: 40px;
+    width: 100px;
+    height: 100px;
+    
+}
 
 
