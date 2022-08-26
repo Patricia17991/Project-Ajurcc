@@ -3,7 +3,6 @@
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
-
 }
 
 
@@ -34,7 +33,6 @@ a {
     padding: 40px 40px;
     background:url('./paisagem.png');
     color: #fff;
-    
 }
 
 .menu {
@@ -45,8 +43,6 @@ a {
 img {
     height:40px;
     width: 40px;
-    
-  
 }
 
 
@@ -57,7 +53,6 @@ img {
     display: flex;
     justify-content: center;
     align-items:center;
-  
         
 }
 
@@ -66,6 +61,4 @@ h1 {
     margin-bottom: 40px;
     width: 100px;
     height: 100px;
-    
 }
-
