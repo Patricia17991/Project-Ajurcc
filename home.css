@@ -34,7 +34,7 @@ a {
     color: #fff;
 }
 
-.menu {
+.menu-desktop {
     display: flex;
     gap: 70px;
 }
