@@ -26,7 +26,7 @@ a {
     color:#fff;
 }
 
-.header-area {
+.header {
     display: flex;
     align-items:center;
     justify-content: space-between;
