@@ -1,10 +1,8 @@
-
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
     font-family: 'Roboto', sans-serif;
-
 }
 
 html {
@@ -25,6 +23,7 @@ ul {
 a {
     text-decoration: none;
     color:#fff;
+    cursor: pointer;
 }
 
 .header {
@@ -65,9 +64,11 @@ h1 {
 
 h1:hover, p:hover{
     color: #8d86c9;
+    cursor: pointer;
 }
 
 a:hover{
     color: #000;
     font-weight: 700;
+    cursor: pointer;
 }
