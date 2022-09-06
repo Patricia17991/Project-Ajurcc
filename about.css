@@ -1,0 +1,42 @@
+body {
+    background: #fff;
+    color: #8d86c9;
+}
+button {
+    width: 10%;
+    padding:10px;
+    margin: 5px;
+    border: none;
+    border-radius: 8px; 
+    outline: none;
+    text-transform: uppercase;
+    font-weight: 800;
+    letter-spacing: 4px; 
+    background: #8d86c9;
+    cursor: pointer; 
+    display: block;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+}
+
+button:hover {
+    background: black;
+}
+
+a:hover {
+    color: #8d86c9;
+}
+
+.main-two {
+    width: 100vw;
+    height: 100vh;
+    color: #8d86c9;
+}
+
+h1:hover, p:hover{
+    color: #000;
+}
+
