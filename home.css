@@ -1,9 +1,9 @@
+
 * {
     margin: 0px;
     padding: 0px;
     box-sizing: border-box;
 }
-
 
 html {
     font-size: 16px;
@@ -13,7 +13,7 @@ html {
 body {
     font-family: 'Poppins', sans-serif;
     overflow-x: hidden;
-    background: url('./paisagem.png');
+    background: #000;
 }
 
 ul {
@@ -30,7 +30,7 @@ a {
     align-items:center;
     justify-content: space-between;
     padding: 40px 40px;
-    background:url('./paisagem.png');
+    background: #8d86c9;
     color: #fff;
 }
 
@@ -40,10 +40,9 @@ a {
 }
 
 img {
-    height:40px;
+    height: 40px;
     width: 40px;
 }
-
 
 .main {
     width: 100vw;
@@ -51,7 +50,7 @@ img {
     color: #fff;
     display: flex;
     justify-content: center;
-    align-items:center;
+    align-items:center;     
 }
 
 
@@ -59,4 +58,14 @@ h1 {
     margin-bottom: 40px;
     width: 100px;
     height: 100px;
+}
+
+
+h1:hover, p:hover{
+    color: #8d86c9;
+}
+
+a:hover{
+    color: #000;
+    font-weight: 700;
 }
